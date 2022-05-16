@@ -1,0 +1,72 @@
+*{
+    margin: 0%;
+  }
+  .logotipo{ 
+    margin: 0px;
+    height: 40%;
+    width:50%;
+    
+  }
+  h1 {
+    text-align: left;
+  }
+  
+  ul {
+    float: right;
+    text-decoration: none;
+    list-style-type: none;
+  }
+  
+  a{
+    list-style-type: none;
+  }
+  .opcionesmenu {
+    display: inline-block;
+    list-style: none;
+    color: #333232;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    padding: 10px;
+    text-decoration: none;
+  }
+  
+  .opcionesmenu:hover {
+    font-size:30px;
+    transition: all 0.5s;
+    color: black;
+  }
+  
+  header {
+    display: block;
+    margin-top: 5%;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .piedepagina {
+    height: 100%;
+    width: 100%;
+    margin-left: auto;
+    padding: 50px;
+  }
+
+  #carouselExampleIndicators{
+    margin-top: 8%;
+  }
+
+  /*------------------formulario--------------------*/
+
+  .modal{
+    color: #333232;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+  }
+  /*.modal-header{
+    background-color: antiquewhite;
+  }
+  .modal-content{
+    background-color:aliceblue;
+  }*/
